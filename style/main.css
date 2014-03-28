@@ -238,52 +238,80 @@ hr {
   line-height: 116.25px; }
 
 .tile-image-2{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/2.jpg);
 	background-repeat: no-repeat
 }
 
 .tile-image-4{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/4.jpg);
 	background-repeat: no-repeat
 }
 .tile-image-8{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/8.jpg);
 	background-repeat: no-repeat
 }
 
 .tile-image-16{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/16.jpg);
 	background-repeat: no-repeat
 }
 .tile-image-32{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/32.jpg);
 	background-repeat: no-repeat
 }
 
 .tile-image-64{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/64.jpg);
 	background-repeat: no-repeat
 }
 .tile-image-128{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/128.jpg);
 	background-repeat: no-repeat
 }
 
 .tile-image-256{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/256.jpg);
 	background-repeat: no-repeat
 }
 .tile-image-512{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/512.jpg);
 	background-repeat: no-repeat
 }
 
 .tile-image-1024{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/1024.jpg);
 	background-repeat: no-repeat
 }
 .tile-image-2048{
+  width: 107px;
+  height: 107px;
 	background-image:url(../imgs/2048.jpg);
+	background-repeat: no-repeat
+}
+.tile-image-4096{
+  width: 107px;
+  height: 107px;
+	background-image:url(../imgs/4096.jpg);
 	background-repeat: no-repeat
 }
 
