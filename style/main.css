@@ -234,7 +234,62 @@ hr {
 .tile, .tile .tile-inner {
   width: 107px;
   height: 107px;
+  font-size:0px;
   line-height: 116.25px; }
+
+.tile-image-2{
+	background-image:url(../imgs/2.jpg);
+	background-repeat: no-repeat
+}
+
+.tile-image-4{
+	background-image:url(../imgs/4.jpg);
+	background-repeat: no-repeat
+}
+.tile-image-8{
+	background-image:url(../imgs/8.jpg);
+	background-repeat: no-repeat
+}
+
+.tile-image-16{
+	background-image:url(../imgs/16.jpg);
+	background-repeat: no-repeat
+}
+.tile-image-32{
+	background-image:url(../imgs/32.jpg);
+	background-repeat: no-repeat
+}
+
+.tile-image-64{
+	background-image:url(../imgs/64.jpg);
+	background-repeat: no-repeat
+}
+.tile-image-128{
+	background-image:url(../imgs/128.jpg);
+	background-repeat: no-repeat
+}
+
+.tile-image-256{
+	background-image:url(../imgs/256.jpg);
+	background-repeat: no-repeat
+}
+.tile-image-512{
+	background-image:url(../imgs/512.jpg);
+	background-repeat: no-repeat
+}
+
+.tile-image-1024{
+	background-image:url(../imgs/1024.jpg);
+	background-repeat: no-repeat
+}
+.tile-image-2048{
+	background-image:url(../imgs/2048.jpg);
+	background-repeat: no-repeat
+}
+
+
+ 
+ 
 .tile.tile-position-1-1 {
   -webkit-transform: translate(0px, 0px);
   -moz-transform: translate(0px, 0px);
